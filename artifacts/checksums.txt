@@ -1,0 +1,1 @@
+a97620cd9b81ccc3c461e9392c0363a9c25c3fe276fa3dbfc695fc5150a6fc1d  cw20_token_contract.wasm
